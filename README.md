@@ -16,10 +16,6 @@ SQL, R, Docker, NodeJS
 ## ⚡ Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
-    <a href="https://github.com/StevenWen81/StevenWen81"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenWen81&layout=compact&hide=css,html&card_width=300&theme=dark" /></a>
-</div>
-
 <!--
 **StevenWen81/StevenWen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
