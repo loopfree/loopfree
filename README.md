@@ -17,7 +17,7 @@ SQL, R, Docker, NodeJS
 [![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
-    <a href="https://github.com/StevenWen81/StevenWen81"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravielze&layout=compact&hide=css,html&card_width=300&theme=dark" /></a>
+    <a href="https://github.com/StevenWen81/StevenWen81"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenWen81&layout=compact&hide=css,html&card_width=300&theme=dark" /></a>
 </div>
 
 <!--
