@@ -12,7 +12,7 @@ C, C++, Java, Python, Haskell, Pascal, HTML, CSS, Javascript, Flask, Arduino
 ## 🔭 Currently Learning
 SQL, R, Docker, NodeJS
 
-## ⚡ Stats
+## 🦾 Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...🦾🧠
 -->
