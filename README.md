@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ## 💬 Introduction
-I am Steven Wen, you can call me Awen. I am currently studying at Bandung Institute of Technology (ITB) at Informatics major. 
+I am Steven Wen, you can call me Awen. I am currently studying at Bandung Institute of Technology (ITB) in Informatics major. 
 <br/>
 I am interested in software engineering.
 
