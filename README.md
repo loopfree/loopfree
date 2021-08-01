@@ -10,7 +10,7 @@ I am interested in software engineering.
 C, C++, Java, Python, Haskell, Pascal, HTML, CSS, Javascript, Flask, Arduino
 
 ## 🔭 Currently Learning
-SQL, R, Docker, NodeJS
+SQL, R, Docker, NodeJS, Golang
 
 ## 🦾 Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
