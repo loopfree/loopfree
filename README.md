@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=StevenWen81&color=brightgreen)
 
-### Hi there 👋
+### Hello 👋
 ## 💬 Introduction
-I am Steven Wen, you can call me Awen. I am currently studying at Bandung Institute of Technology (ITB) in Informatics major. 
+My name is Steven Wen, you can call me Awen. I am currently studying at Bandung Institute of Technology (ITB) in Informatics major. 
 <br/>
 I am interested in software engineering.
 
