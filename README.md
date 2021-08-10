@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=StevenWen81&color=brightgreen)
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Test" />
+</h1>
+
 ## 💬 Introduction
 My name is Steven Wen, you can call me Awen. I am currently studying at Bandung Institute of Technology (ITB) in Informatics major. 
 <br/>
