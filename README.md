@@ -5,8 +5,8 @@ My name is Steven Wen, you can call me Awen. I am currently studying at Bandung 
 <br/>
 I am interested in software engineering.
 
-## 🌱 Skills
-C, C++, Java, Python, Haskell, Pascal, HTML, CSS, Javascript, Flask, Arduino
+## 🔧 Technologies & Tools
+Arduino, Bash, C, C++, CSS, Flask, Haskell, HTML, Java, Javascript, Pascal, ,PowerShell, Python
 
 ## 🔭 Currently Learning
 SQL, R, Docker, NodeJS, Golang
