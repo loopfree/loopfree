@@ -30,7 +30,7 @@ I am interested in software engineering.
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
 </p>
 
-## 💾 💽 Databases and Cloud Hosting
+## 💾 Databases and Cloud Hosting
 
 <p>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
