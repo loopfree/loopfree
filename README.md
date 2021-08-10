@@ -19,7 +19,6 @@ I am interested in software engineering.
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
 </p>
-<br/>
 
 ## 📡 Frameworks and libraries
 <p>
@@ -28,7 +27,6 @@ I am interested in software engineering.
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
 </p>
-<br/>
 
 ## 💾 Databases and Cloud Hosting
 <p>
@@ -37,7 +35,6 @@ I am interested in software engineering.
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
 </p>
-<br/>
 
 ## 🔭 Currently Learning
 <p>
