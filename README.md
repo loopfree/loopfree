@@ -1,9 +1,23 @@
 ![](https://komarev.com/ghpvc/?username=StevenWen81&color=brightgreen)
 
-## 💬 Introduction
-My name is Steven Wen, you can call me Awen. I am currently studying at Bandung Institute of Technology (ITB) in Informatics major. 
+## 💬 Introduction 
+ ```python
+ class Introduction:
+ 	name = "Steven Wen"
+		current_edu = "Bandung Institute of Technology (ITB)"
+    major = "Informatics"
+		hobbies = [
+				"Playing Tetris",
+				"Playing Chess",
+				"Listening To Nature Sounds",
+				"Scrolling Through Stack Overflow Because Of A Bug :D"
+			  ]
+        
+	def Interest():
+		SoftwareEngineering()
+		Data Scientist()
+ ```
 <br/>
-I am interested in software engineering.
 
 ## 💻 Skills
 <p>
