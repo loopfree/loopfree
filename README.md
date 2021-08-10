@@ -4,18 +4,18 @@
  ```python
  class Introduction:
  	name = "Steven Wen"
-	current_edu = "Bandung Institute of Technology (ITB)"
+		current_edu = "Bandung Institute of Technology (ITB)"
     	major = "Informatics"
-	hobbies = [
-			"Playing Tetris",
-			"Playing Chess",
-			"Listening To Nature Sounds",
-			"Scrolling Through Stack Overflow Because Of A Bug :D"
-		  ]
-        
-	def Interest():
-		SoftwareEngineering()
-		Data Scientist()
+		hobbies = [
+				"Playing Tetris",
+				"Playing Chess",
+				"Listening To Nature Sounds",
+				"Scrolling Through Stack Overflow Because Of A Bug :D"
+			  ]
+
+		def Interest():
+			SoftwareEngineering()
+			Data Scientist()
  ```
 <br/>
 
