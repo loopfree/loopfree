@@ -15,7 +15,7 @@
 
 		def Interest():
 			SoftwareEngineering()
-			Data Scientist()
+			DataScientist()
  ```
 <br/>
 
