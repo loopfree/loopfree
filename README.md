@@ -5,7 +5,7 @@ My name is Steven Wen, you can call me Awen. I am currently studying at Bandung 
 <br/>
 I am interested in software engineering.
 
-## 💻 Programming languages
+##  Programming languages
 
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
