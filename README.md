@@ -7,6 +7,7 @@ I am interested in software engineering.
 
 ## 🔧 Technologies & Tools
 Arduino, Bash, C, C++, CSS, Flask, Haskell, HTML, Java, Javascript, Pascal, PowerShell, Python
+src="https://img.shields.io/badge/Assembly-525252.svg?logo=mega&logoColor=white">
 
 ## 🔭 Currently Learning
 SQL, R, Docker, NodeJS, Golang
