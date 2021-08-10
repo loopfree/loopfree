@@ -6,7 +6,6 @@ My name is Steven Wen, you can call me Awen. I am currently studying at Bandung 
 I am interested in software engineering.
 
 ## 💻 Programming languages
-
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-2370ED.svg?logo=c&logoColor=white">
@@ -20,31 +19,32 @@ I am interested in software engineering.
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
 </p>
+<br/>
 
 ## 📡 Frameworks and libraries
-
 <p>
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
 </p>
+<br/>
 
 ## 💾 Databases and Cloud Hosting
-
 <p>
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
 </p>
+<br/>
 
 ## 🔭 Currently Learning
 <p>
-   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-   <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 </p>
 
 ## 🦾 Stats
