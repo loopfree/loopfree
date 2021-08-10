@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=StevenWen81&color=brightgreen)
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Test" />
+  <img src="https://raw.githubusercontent.com/martonlederer/test/master/name.svg" alt="Test" />
 </h1>
 
 ## 💬 Introduction
