@@ -56,6 +56,7 @@
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 	<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=blue">
+	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
 	<img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 </p>
 
