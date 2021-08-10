@@ -5,7 +5,7 @@ My name is Steven Wen, you can call me Awen. I am currently studying at Bandung 
 <br/>
 I am interested in software engineering.
 
-##  Programming languages
+## 💻 Programming languages
 
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
@@ -30,7 +30,7 @@ I am interested in software engineering.
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
 </p>
 
-##  Databases and Cloud Hosting
+## 💾 💽 Databases and Cloud Hosting
 
 <p>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
