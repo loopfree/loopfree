@@ -33,6 +33,7 @@
 	<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+	<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
 	<img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
 	<img alt="Obs" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white">
 	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
