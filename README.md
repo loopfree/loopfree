@@ -53,7 +53,7 @@
 	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 	<img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
 	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
-	<img alt="GoLang" src="https://img.shields.io/badge/GoLang-21759B?logo=go&logoColor=white">
+	<img alt="Golang" src="https://img.shields.io/badge/Golang-21759B?logo=go&logoColor=white">
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
