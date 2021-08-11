@@ -34,12 +34,13 @@
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
 	<img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-	<img alt="obs" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white">
+	<img alt="Obs" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white">
 	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
 	<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
 	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
 	<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
 	<img alt="SQL-Inj" src="https://img.shields.io/badge/-💉%20SQL%20Injection-0b5389">
+	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 	<img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white">
 	<img alt="VC" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white">
 	<img alt="Wolf" src="https://img.shields.io/badge/Wolfram%20Aplha-DD1100?logo=wolfram&logoColor=white">
