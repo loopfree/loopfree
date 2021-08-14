@@ -63,7 +63,7 @@
 </p>
 
 ## 🦾 Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)]
+![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=StevenWen81&count_private=true&include_all_commits=true" />
