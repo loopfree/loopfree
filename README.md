@@ -34,6 +34,7 @@
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
 	<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 	<img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
 	<img alt="Obs" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white">
 	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
@@ -57,7 +58,6 @@
 	<img alt="Golang" src="https://img.shields.io/badge/Golang-21759B?logo=go&logoColor=white">
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 	<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=blue">
 	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
 </p>
