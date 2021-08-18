@@ -48,6 +48,7 @@
 	<img alt="Wolf" src="https://img.shields.io/badge/Wolfram%20Aplha-DD1100?logo=wolfram&logoColor=white">
 	<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
 </p>
+<br/>
 
 ## 📖 Currently Learning
 <p>
@@ -61,6 +62,7 @@
 	<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=blue">
 	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
 </p>
+<br/>
 
 ## 🔧 Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)
