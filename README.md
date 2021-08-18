@@ -62,7 +62,7 @@
 	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
 </p>
 
-## 🦾 Stats
+## 🔧 Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=StevenWen81&margin-w=15&column=7&theme=darkhub)
 
 <div>
