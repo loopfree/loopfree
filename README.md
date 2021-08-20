@@ -17,7 +17,6 @@
 			SoftwareEngineering()
 			DataScientist()
  ```
-<br/>
 
 ## 💻 Skills
 <p>
