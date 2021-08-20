@@ -29,7 +29,6 @@
 	<img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white">
 	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
 	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-	<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
 	<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
@@ -55,6 +54,7 @@
 	<img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
 	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
 	<img alt="Golang" src="https://img.shields.io/badge/Golang-21759B?logo=go&logoColor=white">
+	<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 	<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=blue">
