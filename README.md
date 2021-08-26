@@ -66,7 +66,7 @@
 
 <div>
  	<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=c8c8c8&bg_color=151515&langs_count=6&layout=compact"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=38bdae&bg_color=1a1b27&langs_count=6&layout=compact"/>
   	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&layout=compact" /> -->
 </div>
 
