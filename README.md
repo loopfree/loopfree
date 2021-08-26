@@ -65,7 +65,7 @@
 <table>
 <thead>
 <tr>
-<th align="center" colspan="3"> <img src=https://github-profile-trophy.vercel.app/?username=loopfree&margin-w=15&column=7&theme=darkhub&bg_color=1a1b27 /> </th>
+<th align="center" colspan="3"> <img src=https://github-profile-trophy.vercel.app/?username=loopfree&margin-w=15&column=7&theme=darkhub&BACKGROUND=1a1b27 /> </th>
 </tr>
 </thead>
 <tbody>
