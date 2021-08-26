@@ -71,7 +71,7 @@
 <tbody>
 <tr>
 <td align="center"> <img src=https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight /> </td>
-<td align="center"> <img height="170" src=https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=38bdae&bg_color=1a1b27&langs_count=6&layout=compact /> </td>
+<td align="center"> <img style="display:block;" width="100%" height="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=38bdae&bg_color=1a1b27&langs_count=6&layout=compact /> </td>
 </tr>
 </tbody>
 </table>
