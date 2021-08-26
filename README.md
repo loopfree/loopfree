@@ -63,7 +63,7 @@
 
 ## 📊 Stats
 |![trophy](https://github-profile-trophy.vercel.app/?username=loopfree&margin-w=15&column=7&theme=darkhub):||
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![stat](https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight) | ![favlang](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=38bdae&bg_color=1a1b27&langs_count=6&layout=compact) |
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&layout=compact" /> -->
 
