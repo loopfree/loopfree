@@ -74,7 +74,7 @@
 <td align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&langs_count=8&theme=tokyonight&layout=compact /> </td>
 </tr>
 <tr>
-<th align="center" colspan="3"> <img src=https://activity-graph.herokuapp.com/graph?username=loopfree&theme=react-dark&color=70a5fd&bg_color=1a1b27 /> </th>
+<th align="center" colspan="3"> <img src=https://activity-graph.herokuapp.com/graph?username=loopfree&theme=react-dark&color=70a5fd&bg_color=1a1b27&line=38bdae /> </th>
 </tr>
 </tbody>
 </table>
