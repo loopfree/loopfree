@@ -68,7 +68,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"> <img src=https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight /> </td>
+<td align="center"> <img src=https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&count_private=true&include_all_commits=false&theme=tokyonight /> </td>
 <td align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&langs_count=8&theme=tokyonight&layout=compact /> </td>
 </tr>
 <tr>
