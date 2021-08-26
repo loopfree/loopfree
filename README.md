@@ -43,8 +43,6 @@
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 	<img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white">
 	<img alt="VC" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white">
-	<img alt="Wolf" src="https://img.shields.io/badge/Wolfram%20Aplha-DD1100?logo=wolfram&logoColor=white">
-	<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
 </p>
 
 ## 📖 Currently Learning
