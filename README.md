@@ -65,7 +65,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=loopfree&margin-w=15&column=7&theme=darkhub)
 
 <div>
- 	<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&				bg_color=151515&count_private=true&include_all_commits=true" />
+ 	<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=c8c8c8&bg_color=151515&langs_count=6&layout=compact"/>
   	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&layout=compact" /> -->
 </div>
