@@ -62,11 +62,19 @@
 </p>
 
 ## 📊 Stats
-| :    ![trophy](https://github-profile-trophy.vercel.app/?username=loopfree&margin-w=15&column=7&theme=darkhub)   : ||
-| :-----------------: | :---------------------: |
-| ![stat](https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight) | ![favlang](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=38bdae&bg_color=1a1b27&langs_count=6&layout=compact) |
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&layout=compact" /> -->
-
+<table>
+<thead>
+<tr>
+<th align="center" colspan="3"> <img src=![trophy](https://github-profile-trophy.vercel.app/?username=loopfree&margin-w=15&column=7&theme=darkhub)> </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"> ![stat](https://github-readme-stats.vercel.app/api?username=loopfree&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight) | ![favlang](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=38bdae&bg_color=1a1b27&langs_count=6&layout=compact) </td>
+<td align="left"> ![favlang](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfree&text_color=38bdae&bg_color=1a1b27&langs_count=6&layout=compact) </td>
+</tr>
+</tbody>
+</table>
 
 <!--
 **StevenWen81/StevenWen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
