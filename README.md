@@ -55,7 +55,7 @@
 	<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-	<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=blue">
+	<img alt="React" src="https://img.shields.io/badge/React-302E31?logo=react&logoColor=blue">
 	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
 </p>
 
