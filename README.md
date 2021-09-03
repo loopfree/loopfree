@@ -58,7 +58,7 @@
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 	<img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white">
-	<img alt="React" src="https://img.shields.io/badge/React-ffffff?logo=react&logoColor=00d8ff">
+	<img alt="React" src="https://img.shields.io/badge/React-ffffff?logo=react&logoColor=3884ff">
 	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
 </p>
 
