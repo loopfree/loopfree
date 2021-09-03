@@ -38,6 +38,7 @@
 	<img alt="Obs" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white">
 	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
 	<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
+	<img alt="PyPy" src="https://img.shields.io/badge/PyPy-193440.svg?logo=pypy&logoColor=white">
 	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
 	<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
 	<img alt="SQL-Inj" src="https://img.shields.io/badge/-💉%20SQL%20Injection-0b5389">
