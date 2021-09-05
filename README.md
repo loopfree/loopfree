@@ -19,7 +19,7 @@
  ```
 
 ## 💥 CP Profile
-<img alt="Codewars" src="https://www.codewars.com/users/loopfree/badges/small">
+<img alt="Codewars" src="https://www.codewars.com/users/loopfree/badges/large">
 
 ## 💻 Skills
 <p>
