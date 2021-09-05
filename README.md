@@ -21,7 +21,11 @@
 ## 💥 CP Profile
 <p>
 	<a href="https://www.codechef.com/users/steven_wen"> 
-	   <img alt="CodeChef" src="https://img.shields.io/badge/steven_wen-5B4638.svg?logo=codechef&logoColor=white"> 
+	   <img alt="CodeChef" src="https://img.shields.io/badge/Steven Wen-5B4638.svg?logo=codechef&logoColor=white"> 
+	</a>
+	
+	<a href="https://www.hackerrank.com/stevenwen81"> 
+	   <img alt="HackerRank" src="https://img.shields.io/badge/stevenwen81-00EA64.svg?logo=hackerrank&logoColor=white"> 
 	</a>
 </p>
 
