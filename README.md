@@ -27,7 +27,7 @@
 
 ## 💻 Skills
 <p>
-	
+	<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
 	<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
 	<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
 	<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
