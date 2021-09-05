@@ -17,10 +17,7 @@
 			SoftwareEngineering()
 			DataScientist()
  ```
-
-## 💥 CP Profile
-<img alt="Codewars" src="https://www.codewars.com/users/loopfree/badges/large">
-
+ 
 ## 💻 Skills
 <p>
 	<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
