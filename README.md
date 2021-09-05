@@ -18,14 +18,14 @@
 			DataScientist()
  ```
 
-## 💥 Competitive Programming Profile
-[![CodeChef](https://cp-logo.vercel.app/codechef/steven_wen?logo=true)](https://www.codechef.com/users/steven_wen)
-</br>
-<img src="https://www.codewars.com/users/loopfree/badges/micro">
+## 💥 CP Profile
+<p>
+	<a href="https://www.codechef.com/users/steven_wen" <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?logo=codechef&logoColor=white"> </a>
+</p>
 
 ## 💻 Skills
 <p>
-	<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
+	
 	<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
 	<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
 	<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
