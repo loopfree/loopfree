@@ -19,9 +19,7 @@
  ```
 
 ## 💥 CP Profile
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/steven_wen)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/stevenwen81)
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/loopfree)
+<img alt="Codewars" src="https://www.codewars.com/users/loopfree/badges/small">
 
 ## 💻 Skills
 <p>
