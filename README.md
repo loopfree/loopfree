@@ -18,6 +18,11 @@
 			DataScientist()
  ```
 
+## 💥 Competitive Programming Profile
+[![CodeChef](https://cp-logo.vercel.app/codechef/steven_wen?logo=true)](https://www.codechef.com/users/steven_wen)
+</br>
+<img src="https://www.codewars.com/users/loopfree/badges/micro">
+
 ## 💻 Skills
 <p>
 	<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
