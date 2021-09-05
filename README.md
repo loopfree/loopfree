@@ -21,7 +21,7 @@
 ## 💥 CP Profile
 <p>
 	<a href="https://www.codechef.com/users/steven_wen"> 
-	   <img alt="CodeChef" src="https://img.shields.io/badge/steven_wen-5B4638.svg?logo=codechef&logoColor=white"> 
+	   <img alt="CodeChef" src="https://img.shields.io/badge/"steven_wen"-5B4638.svg?logo=codechef&logoColor=white"> 
 	</a>
 </p>
 
