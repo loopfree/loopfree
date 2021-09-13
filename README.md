@@ -42,6 +42,7 @@
 	<img alt="PyPy" src="https://img.shields.io/badge/PyPy-193440.svg?logo=pypy&logoColor=white">
 	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
 	<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
+	<img alt="Ruby-On-Rails" src="https://img.shields.io/badge/Ruby On Rails-CC342D.svg?logo=rubyonrails&logoColor=white">
 	<img alt="SQL-Inj" src="https://img.shields.io/badge/-💉%20SQL%20Injection-0b5389">
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 	<img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white">
