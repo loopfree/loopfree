@@ -9,8 +9,7 @@
 		hobbies = [
 				"Playing Tetris",
 				"Playing Chess",
-				"Listening To Nature Sounds",
-				"Scrolling Through Stack Overflow Because Of A Bug :D"
+				"Listening To Nature Sounds"
 			  ]
 
 		def Interest():
