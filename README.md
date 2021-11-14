@@ -61,7 +61,7 @@
 	<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 	<img alt="React" src="https://img.shields.io/badge/React-ffffff?logo=react&logoColor=3884ff">
 	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
-	<img alt="Unity" src="https://img.shields.io/badge/unity-000000?logo=Unity&logoColor=white">
+	<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
 </p>
 
 ## 📊 Stats
@@ -81,18 +81,3 @@
 </tr>
 </tbody>
 </table>
-
-<!--
-**StevenWen81/StevenWen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hello 👋
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...🦾🧠
--->
