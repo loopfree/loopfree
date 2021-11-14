@@ -61,7 +61,7 @@
 	<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 	<img alt="React" src="https://img.shields.io/badge/React-ffffff?logo=react&logoColor=3884ff">
 	<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
-	<img alt="Unity" src="https://img.shields.io/badge/unity-000000?logo=unity&logoColor=white">
+	<img alt="Unity" src="https://img.shields.io/badge/unity-000000?logo=Unity&logoColor=white">
 </p>
 
 ## 📊 Stats
