@@ -44,14 +44,11 @@
 ## 📖 Currently Learning
 <p>
 	<img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120.svg?logo=csharp&logoColor=white">
-	<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white">
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
 	<img alt="Go" src="https://img.shields.io/badge/Go-21759B?logo=go&logoColor=white">
 	<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 	<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-	<img alt="React" src="https://img.shields.io/badge/React-ffffff?logo=react&logoColor=3884ff">
+	<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=5ed3f3">
 	<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
 </p>
 
