@@ -38,6 +38,7 @@
 	<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
 	<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white">
 	<img alt="SQL-Inj" src="https://img.shields.io/badge/-💉%20SQL%20Injection-0b5389">
+	<img alt="VueJS" src="https://img.shields.io/badge/Vue.js-34495e.svg?logo=vue.js&logoColor=4FC08D">
 </p>
 
 ## 📖 Currently Learning
