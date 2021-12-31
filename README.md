@@ -25,11 +25,9 @@
 	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
 	<img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 	<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-4078c0.svg?logo=github&logoColor=white">
-	<img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white">
 	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
 	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
 	<img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white">
 	<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
 	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
