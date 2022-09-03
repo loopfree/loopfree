@@ -26,19 +26,18 @@ Welcome to my profile! I'm a student from ITB majoring informatics. I am also a 
 	<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
 	<img alt="Bulma" src="https://img.shields.io/badge/Bulma-f2f2f2.svg?logo=bulma&logoColor=00c6a9">
+	<img alt="Firebase" src="https://img.shields.io/badge/Firebase-039be5?logo=firebase&logoColor=ffca28">
 	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
 	<img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-	<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-4078c0.svg?logo=github&logoColor=white">
 	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
 	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 	<img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white">
-	<img alt="Less" src="https://img.shields.io/badge/Less-1D365D.svg?logo=less&logoColor=4169E1">
-	<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+	<img alt="Less" src="https://img.shields.io/badge/Less-1D365D.svg?logo=less&logoColor=white">
 	<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white">
+	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47a248?logo=mongodb&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-	<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
 	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
 	<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white">
 	<img alt="SQL-Inj" src="https://img.shields.io/badge/-💉%20SQL%20Injection-0b5389">
@@ -50,12 +49,14 @@ Welcome to my profile! I'm a student from ITB majoring informatics. I am also a 
 
 <p>
 	<img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120.svg?logo=csharp&logoColor=white">
+	<img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287b1.svg?logo=apachecassandra&logoColor=white">
 	<img alt="Go" src="https://img.shields.io/badge/Go-21759B?logo=go&logoColor=white">
 	<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-5391FE?logo=postgresql&logoColor=white">
 	<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 	<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=5ed3f3">
 	<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
+	<img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-f16822?logo=web3.js&logoColor=white">
 </p>
 
 ## 📊 Stats
