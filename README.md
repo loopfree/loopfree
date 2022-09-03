@@ -25,7 +25,9 @@ Welcome to my profile! I'm a student from ITB majoring informatics. I am also a 
 	<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
 	<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
+	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3.svg?logo=bootstrap&logoColor=white">
 	<img alt="Bulma" src="https://img.shields.io/badge/Bulma-f2f2f2.svg?logo=bulma&logoColor=00c6a9">
+	<img alt="Electron" src="https://img.shields.io/badge/Electron-47848f.svg?logo=electron&logoColor=white">
 	<img alt="Firebase" src="https://img.shields.io/badge/Firebase-039be5?logo=firebase&logoColor=ffca28">
 	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
 	<img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
