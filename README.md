@@ -15,9 +15,6 @@ Welcome to my profile! I'm a student from ITB majoring informatics. I am also a 
 
 &nbsp;&nbsp;●&nbsp; [HackerRank](https://www.hackerrank.com/stevenwen81)
 
-
-<br />
-
 &nbsp;![](https://komarev.com/ghpvc/?username=StevenWen81&color=blue)
 
 <br />
